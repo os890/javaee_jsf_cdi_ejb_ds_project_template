@@ -33,7 +33,7 @@
         <tomee-api.version>6.0-5</tomee-api.version>
         <openejb.version>4.6.0</openejb.version>
         <myfaces22.version>2.2.3</myfaces22.version>
-        <ds.version>1.2.1</ds.version>
+        <ds.version>1.4.0</ds.version>
     </properties>
 
     <repositories>
