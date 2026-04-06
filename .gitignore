@@ -1,14 +1,38 @@
-target
+# Build output
+target/
+
+# IDE - IntelliJ
+.idea/
 *.iml
 *.iws
 *.ipr
+
+# IDE - Eclipse
 .project
 .classpath
-.settings
-.metadata
-.svn
-.idea
+.settings/
+.metadata/
+
+# IDE - VS Code
+.vscode/
+
+# Subversion
+.svn/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*~
+
+# Checkstyle
 .checkstyle
+
+# Other
 atlassian-ide-plugin.xml
 .sonar-ide.properties
 *.patch
+release.properties
+pom.xml.releaseBackup
